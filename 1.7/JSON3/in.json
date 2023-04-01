@@ -1,0 +1,10 @@
+{
+    "name": "Jakob",
+    "age": 31,
+    "dates": [21, 22, 31],
+    "wife": null,
+    "money": -19.2,
+    "girlfriend": {
+        "name": "Simone"
+    }
+}
